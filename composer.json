@@ -1,0 +1,20 @@
+{
+    "name": "soswapp/faqs.soswapp",
+    "description": "FAQs web app",
+    "keywords": ["php", "javascript","7","seven","os","web","faq","questions","answers"],
+    "homepage": "https://github.com/soswapp/faqs.soswapp",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ikechukwu Okalia",
+            "email": "dev@ikechukwuokalia.com"
+        },
+        {
+            "name": "Tym Frontiers Ltd.",
+            "email": "dev@tymfrontiers.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {}
+}
